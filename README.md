@@ -1,3 +1,3 @@
-# Machine-Learning-Bayesian-Logistic-Classification
+# Machine Learning: Bayesian Logistic Classification
 
 Please read the report for technical details and explanation
